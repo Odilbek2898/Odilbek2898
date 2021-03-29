@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Odilbek2898
+- 👋 Hi, I’m Odilbek
 - 👀 I’m interested in programming, reading, listening to music
 - 🌱 I’m currently learning PHP Laravel (Python Django)
 - 💞️ I’m looking to collaborate on ...
